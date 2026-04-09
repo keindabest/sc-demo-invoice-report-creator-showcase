@@ -1,12 +1,12 @@
-# Artifacts
+# Files
 
 ## Purpose
 
-This document explains what input and output artifacts are represented in the demo package.
+This document explains what input and output files are represented in the demo package.
 
-## Artifact Categories
+## File Categories
 
-## 1. Sample Input Artifacts
+## 1. Sample Input Files
 
 Location:
 
@@ -23,7 +23,7 @@ Representative examples (mock):
 - report block configuration sample
 - output format selection sample
 
-## 2. Sample Output Artifacts
+## 2. Sample Output Files
 
 Location:
 
@@ -64,8 +64,8 @@ After:
 
 ## Demo Links
 
-- Demo Viewer: https://docs.google.com/spreadsheets/d/1JUpzYpNbTBxQrUdxjW2XcXKGB2t9WTbv9pg12wPPLjg/edit?usp=sharing
 - Deployed Application: https://script.google.com/macros/s/AKfycbx2oa6XNMUjDHL7GLhG693FovAVhuLafTBeWe8G9y7H5uFZLFioAqAMAqUCO0-ndvBg/exec
+- DataBase: https://docs.google.com/spreadsheets/d/1JUpzYpNbTBxQrUdxjW2XcXKGB2t9WTbv9pg12wPPLjg/edit?usp=sharing
 - Public Showcase Repository: https://github.com/keindabest/sc-demo-invoice-report-creator-showcase
 
 ## Notes

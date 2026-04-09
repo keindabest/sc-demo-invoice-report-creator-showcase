@@ -24,8 +24,8 @@ Typical preparation time moves from about 2 working days to about 10 minutes.
 
 ## Demo Access
 
-- Demo Viewer: https://docs.google.com/spreadsheets/d/1JUpzYpNbTBxQrUdxjW2XcXKGB2t9WTbv9pg12wPPLjg/edit?usp=sharing
 - Deployed Application: https://script.google.com/macros/s/AKfycbx2oa6XNMUjDHL7GLhG693FovAVhuLafTBeWe8G9y7H5uFZLFioAqAMAqUCO0-ndvBg/exec
+- DataBase: https://docs.google.com/spreadsheets/d/1JUpzYpNbTBxQrUdxjW2XcXKGB2t9WTbv9pg12wPPLjg/edit?usp=sharing
 - Public Showcase Repository: https://github.com/keindabest/sc-demo-invoice-report-creator-showcase
 
 ## Quick How to Try Demo
@@ -34,11 +34,11 @@ Typical preparation time moves from about 2 working days to about 10 minutes.
 2. Load available order data from the connected container.
 3. Select an order and configure report blocks.
 4. Choose output types (gDoc, PDF, signed PDF).
-5. Run generation and review produced artifacts.
+5. Run generation and review produced files.
 
 ## Demo Documentation Map
 
-- Start here: [OVERVIEW.md](OVERVIEW.md) -> [DEMO_FLOW.md](DEMO_FLOW.md) -> [ARTIFACTS.md](ARTIFACTS.md)
+- Start here: [OVERVIEW.md](OVERVIEW.md) -> [DEMO_FLOW.md](DEMO_FLOW.md) -> [FILES.md](FILES.md)
 - [FEATURES.md](FEATURES.md)
 - [ARCHITECTURE.md](ARCHITECTURE.md)
 - [USE_CASES.md](USE_CASES.md)

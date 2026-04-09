@@ -2,22 +2,22 @@
 
 ## 1. Data Intake
 
-- Loads structured order records from a connected source
-- Supports repeatable selection and preparation workflow
-- Keeps operator interaction in one interface
+- Brings structured order data into one working view for faster run preparation
+- Supports consistent selection and preparation across recurring billing cycles
+- Keeps operator interaction in one interface to reduce handoff friction
 
 ## 2. Validation Layer
 
-- Enforces required field completion
+- Enforces required field completion before generation starts
 - Prevents duplicate period usage in one submission
-- Blocks invalid zero-value submission combinations
-- Verifies readiness before generation starts
+- Blocks invalid zero-value submission combinations that usually cause rework
+- Verifies run readiness before document generation
 
 ## 3. Transformation and Calculation
 
-- Applies rules for TM (hour-based) and FP (fixed monthly with overtime) models
-- Recalculates totals server-side before output
-- Builds normalized generation payload for artifact creation
+- Applies rules for TM (hour-based) and FP (fixed monthly with overtime) models in one path
+- Recalculates totals server-side before output to reduce mismatch disputes
+- Builds a normalized generation payload so artifact output stays consistent across reruns
 
 ## 4. Artifact Generation
 

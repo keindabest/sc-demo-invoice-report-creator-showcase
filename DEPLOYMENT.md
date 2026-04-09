@@ -1,4 +1,6 @@
-# Deployment and Demo Access
+# Demo Access and Try Path
+
+This page provides a quick external-reader guide for opening the demo and running one generation cycle.
 
 ## Access Links
 
@@ -6,30 +8,25 @@
 - Deployed Application: https://script.google.com/macros/s/AKfycbx2oa6XNMUjDHL7GLhG693FovAVhuLafTBeWe8G9y7H5uFZLFioAqAMAqUCO0-ndvBg/exec
 - Public Showcase Repository: https://github.com/keindabest/sc-demo-invoice-report-creator-showcase
 
-## What You Can Do in Demo
-
-- review the user interface and operational flow
-- run a standard generation path with available demo data
-- inspect resulting artifact links and output formats
-
-## What You Cannot Do in Demo
-
-- access protected production internals
-- retrieve private implementation details or secrets
-- use demo content as a full production runbook
-
-## Steps to Try Demo
+## Quick Try Path
 
 1. Open the deployed application.
 2. Load data from the connected container.
 3. Select one order and set report blocks.
 4. Choose output formats and run generation.
-5. Review generated artifacts and logs available through the demo flow.
+5. Review generated artifacts and run-log context from the result view.
 
-## Notes
+## Expected Result
 
-- This deployment guide is intentionally high-level.
-- Internal routing and orchestration implementation is intentionally omitted.
+- generated artifact links appear at the end of the run
+- outputs include gDoc, PDF, and signed PDF (when selected)
+- the run remains traceable for audit and rerun review
+
+## Boundary Notes
+
+- Demo content is public-safe and sanitized.
+- Internal orchestration details, credentials, and production routing are intentionally excluded.
+- For full context, start with README and DEMO_FLOW.
 
 ## Navigation
 

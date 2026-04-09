@@ -12,6 +12,11 @@ Location:
 
 - `demo/assets/sample-input/`
 
+Files included in this repository:
+
+- `demo/assets/sample-input/input_json.json`
+- `demo/assets/sample-input/input_UI_screenshot.png`
+
 Representative examples (mock):
 
 - structured order record snapshot
@@ -23,6 +28,11 @@ Representative examples (mock):
 Location:
 
 - `demo/assets/sample-output/`
+
+Files included in this repository:
+
+- `demo/assets/sample-output/Invoice 213_09.04.2026_*/` (invoice + report outputs in DOCX/PDF variants)
+- `demo/assets/sample-output/Invoice 214_09.04.2026_*/` (invoice + report outputs in DOCX/PDF variants)
 
 Representative examples (mock):
 

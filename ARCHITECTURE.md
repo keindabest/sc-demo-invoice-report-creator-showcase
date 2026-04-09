@@ -8,6 +8,10 @@ The demo architecture is intentionally presented at a conceptual level.
 - Processing Layer: validation, transformation, and server-side recalculation
 - Output Layer: document/artifact generation and storage
 
+## Technology Context (High Level)
+
+This demo runs within Google Workspace using Google Apps Script with Google Sheets and Google Drive as the user and artifact surfaces.
+
 ## Text Diagram
 
 ```text

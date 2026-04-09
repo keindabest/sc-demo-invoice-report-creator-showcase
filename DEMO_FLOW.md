@@ -2,6 +2,8 @@
 
 This walkthrough shows the user journey at a functional level, using mock labels and generic data terms.
 
+![Overall interface preview](assets/screenshots/overall_UI.png)
+
 ## Step 1: Input and Selection
 
 - Open the web interface.
@@ -11,10 +13,14 @@ This walkthrough shows the user journey at a functional level, using mock labels
 Mock example:
 
 ```text
-Order Record: ORDER_DEMO_A
+Order Record: ORDER_DEMO_MONTHLY_01
 Billing Model: TM or FP
 Reporting Window: Monthly
 ```
+
+Input form example used during selection and preparation:
+
+![Input form example](assets/sample-input/input_UI_screenshot.png)
 
 ## Step 2: Validation
 

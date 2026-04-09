@@ -1,16 +1,20 @@
-# Public Demo: Order Document Automation
+# Order Loader Public Demo: Recurring Billing Documents in Minutes
 
-This folder presents a safe, public showcase of a Google Workspace automation system that generates invoice and report packages from one operational source.
+This public demo shows a Google Workspace automation flow that turns recurring billing input into ready invoice and report packages in one run.
 
-It is written for business and technical readers who need to understand what the system does, how it is used, and why it is operationally useful.
+For teams closing routine contractor billing, it replaces fragmented manual assembly with a guided and traceable process.
+
+Typical preparation time moves from about 2 working days to about 10 minutes.
+
+![Order Loader demo hero](assets/screenshots/hero_section.png)
 
 ## Key Capabilities
 
-- Supports two billing models in one flow: TM (hour-based) and FP (fixed monthly with overtime logic)
-- Generates multi-document output in one run: gDoc, PDF, and signed PDF
-- Applies server-side recalculation before output to reduce total mismatches
-- Preserves run traceability with logging and repeatable generation flow
-- Uses additive, non-destructive output handling with clear artifact organization
+- Handles both billing models in one process: TM (hour-based) and FP (fixed monthly with overtime logic)
+- Generates complete document outputs in one run: gDoc, PDF, and signed PDF
+- Recalculates totals server-side before output so generated totals match validated inputs
+- Keeps each run traceable with logging and repeatable generation steps
+- Preserves prior artifacts during reruns with non-destructive output handling
 
 ## Outcome Snapshot
 
@@ -34,14 +38,12 @@ It is written for business and technical readers who need to understand what the
 
 ## Demo Documentation Map
 
-- [OVERVIEW.md](OVERVIEW.md)
-- [ARCHITECTURE.md](ARCHITECTURE.md)
-- [DEMO_FLOW.md](DEMO_FLOW.md)
+- Start here: [OVERVIEW.md](OVERVIEW.md) -> [DEMO_FLOW.md](DEMO_FLOW.md) -> [ARTIFACTS.md](ARTIFACTS.md)
 - [FEATURES.md](FEATURES.md)
+- [ARCHITECTURE.md](ARCHITECTURE.md)
 - [USE_CASES.md](USE_CASES.md)
 - [SECURITY_AND_DISCLOSURE.md](SECURITY_AND_DISCLOSURE.md)
 - [DEPLOYMENT.md](DEPLOYMENT.md)
-- [ARTIFACTS.md](ARTIFACTS.md)
 - [LICENSE](LICENSE)
 
 ## Disclosure (Short)

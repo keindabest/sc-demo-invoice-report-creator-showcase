@@ -24,7 +24,7 @@ It demonstrates product behavior, user flow, and value outcomes while protecting
 
 - examples are mock or generalized
 - no production-specific identifiers are required to understand the demo
-- unknown links remain explicit placeholders (not fabricated)
+- public links are included only where approved for demo sharing
 
 ## Disclosure Boundary
 

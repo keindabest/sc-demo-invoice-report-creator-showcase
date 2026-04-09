@@ -18,19 +18,11 @@ It is written for business and technical readers who need to understand what the
 - Manual document assembly risk reduced through deterministic generation
 - Operational handoffs reduced for routine billing closure
 
-## Demo Links
+## Demo Access
 
 - Demo Viewer: https://docs.google.com/spreadsheets/d/1JUpzYpNbTBxQrUdxjW2XcXKGB2t9WTbv9pg12wPPLjg/edit?usp=sharing
 - Deployed Application: https://script.google.com/macros/s/AKfycbx2oa6XNMUjDHL7GLhG693FovAVhuLafTBeWe8G9y7H5uFZLFioAqAMAqUCO0-ndvBg/exec
-- Sandbox Container: https://github.com/keindabest/sc-demo-invoice-report-creator-showcase
-
-## Current Public References
-
-These references are already public and are provided for demo orientation:
-
-- Google Sheet Container (viewer): https://docs.google.com/spreadsheets/d/1JUpzYpNbTBxQrUdxjW2XcXKGB2t9WTbv9pg12wPPLjg/edit?usp=sharing
-- Web App Deployment: https://script.google.com/macros/s/AKfycbx2oa6XNMUjDHL7GLhG693FovAVhuLafTBeWe8G9y7H5uFZLFioAqAMAqUCO0-ndvBg/exec
-- Public GitHub Showcase: https://github.com/keindabest/sc-demo-invoice-report-creator-showcase
+- Public Showcase Repository: https://github.com/keindabest/sc-demo-invoice-report-creator-showcase
 
 ## Quick How to Try Demo
 
@@ -55,3 +47,12 @@ These references are already public and are provided for demo orientation:
 ## Disclosure (Short)
 
 This is a sanitized public demo package. Production-specific orchestration details, sensitive naming patterns, and client-specific implementation workflows are intentionally excluded.
+
+## License
+
+This project is licensed under the MIT License. See LICENSE.
+
+## Author
+
+Daniel Kein
+https://www.linkedin.com/in/daniel-kein/

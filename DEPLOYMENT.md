@@ -6,6 +6,7 @@ This page provides a quick external-reader guide for opening the demo and runnin
 
 - Deployed Application: https://script.google.com/macros/s/AKfycbx2oa6XNMUjDHL7GLhG693FovAVhuLafTBeWe8G9y7H5uFZLFioAqAMAqUCO0-ndvBg/exec
 - DataBase: https://docs.google.com/spreadsheets/d/1JUpzYpNbTBxQrUdxjW2XcXKGB2t9WTbv9pg12wPPLjg/edit?usp=sharing
+- Generated Documents (Drive): https://drive.google.com/drive/folders/1T7l4R3PMPFFR2-jJxzz9QeDYiwZDUg5h
 - Public Showcase Repository: https://github.com/keindabest/sc-demo-invoice-report-creator-showcase
 
 ## Quick Try Path

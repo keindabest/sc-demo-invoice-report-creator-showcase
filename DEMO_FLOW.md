@@ -1,20 +1,20 @@
 # Demo Flow
 
-This walkthrough shows the user journey at a functional level, using mock labels and generic data terms.
+This walkthrough shows the real user path in the demo web app from input to generated files.
 
 ![Overall interface preview](assets/screenshots/overall_UI.png)
 
 ## Step 1: Input and Selection
 
 - Open the web interface.
-- Load available order data from the connected source.
-- Select one order record for processing.
+- Click `Read DataBase` to load orders from the connected source.
+- Select one order for processing.
 
-Mock example:
+Sample order used in this demo:
 
 ```text
-Order Record: ORDER_DEMO_MONTHLY_01
-Billing Model: TM or FP
+Order No: 5
+Billing Model: TM
 Reporting Window: Monthly
 ```
 

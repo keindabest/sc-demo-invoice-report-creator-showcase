@@ -1,4 +1,4 @@
-# Order Loader Public Demo: Recurring Billing Documents in Minutes
+# Invoice&Report Creator for selected Client
 
 This public demo shows a Google Workspace automation flow that turns recurring billing input into ready invoice and report packages in one run.
 
@@ -6,7 +6,7 @@ For teams closing routine contractor billing, it replaces fragmented manual asse
 
 Typical preparation time moves from about 2 working days to about 10 minutes.
 
-![Order Loader demo hero](assets/screenshots/hero_section.png)
+![Invoice Report Creator demo hero](assets/screenshots/hero_section.png)
 
 ## Key Capabilities
 
@@ -39,12 +39,12 @@ Typical preparation time moves from about 2 working days to about 10 minutes.
 
 ## Demo Documentation Map
 
-- Start here: [OVERVIEW.md](OVERVIEW.md) -> [DEMO_FLOW.md](DEMO_FLOW.md) -> [FILES.md](FILES.md)
-- [FEATURES.md](FEATURES.md)
-- [ARCHITECTURE.md](ARCHITECTURE.md)
-- [USE_CASES.md](USE_CASES.md)
-- [SECURITY_AND_DISCLOSURE.md](SECURITY_AND_DISCLOSURE.md)
-- [DEPLOYMENT.md](DEPLOYMENT.md)
+- Start here: [OVERVIEW](OVERVIEW.md) -> [DEMO_FLOW](DEMO_FLOW.md) -> [FILES](FILES.md)
+- [FEATURES](FEATURES.md)
+- [ARCHITECTURE](ARCHITECTURE.md)
+- [USE_CASES](USE_CASES.md)
+- [SECURITY_AND_DISCLOSURE](SECURITY_AND_DISCLOSURE.md)
+- [DEPLOYMENT](DEPLOYMENT.md)
 - [LICENSE](LICENSE)
 
 ## Disclosure (Short)

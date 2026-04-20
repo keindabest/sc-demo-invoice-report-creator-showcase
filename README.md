@@ -58,4 +58,5 @@ This project is licensed under the MIT License. See LICENSE.
 ## Author
 
 Daniel Kein
+
 https://www.linkedin.com/in/daniel-kein/

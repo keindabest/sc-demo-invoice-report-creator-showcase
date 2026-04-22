@@ -18,16 +18,66 @@ Typical preparation time moves from about 2 working days to about 10 minutes.
 
 ## Outcome Snapshot
 
-- Preparation time reduced from about 2 working days to about 10 minutes
-- Manual document assembly risk reduced through deterministic generation
-- Operational handoffs reduced for routine billing closure
+<table width="100%">
+  <colgroup>
+    <col width="40%" />
+    <col width="30%" />
+    <col width="30%" />
+  </colgroup>
+  <thead>
+    <tr>
+      <th align="left">Dimension</th>
+      <th align="left">Before</th>
+      <th align="left">After</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Preparation time</td>
+      <td>About 2 working days</td>
+      <td>About 10 minutes</td>
+    </tr>
+    <tr>
+      <td>Document assembly risk</td>
+      <td>Manual multi-step assembly</td>
+      <td>Deterministic generation in one run</td>
+    </tr>
+    <tr>
+      <td>Operational handoffs</td>
+      <td>Multiple routine handoffs</td>
+      <td>Reduced handoffs for billing closure</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Demo Access
 
-- Deployed Application: https://script.google.com/macros/s/AKfycbx2oa6XNMUjDHL7GLhG693FovAVhuLafTBeWe8G9y7H5uFZLFioAqAMAqUCO0-ndvBg/exec
-- DataBase: https://docs.google.com/spreadsheets/d/1JUpzYpNbTBxQrUdxjW2XcXKGB2t9WTbv9pg12wPPLjg/edit?usp=sharing
-- Generated Documents (Drive): https://drive.google.com/drive/folders/1T7l4R3PMPFFR2-jJxzz9QeDYiwZDUg5h
-- Public Showcase Repository: https://github.com/keindabest/sc-demo-invoice-report-creator-showcase
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left" width="36%">Resource</th>
+      <th align="left">Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Web Application</td>
+      <td><a href="https://script.google.com/macros/s/AKfycbx2oa6XNMUjDHL7GLhG693FovAVhuLafTBeWe8G9y7H5uFZLFioAqAMAqUCO0-ndvBg/exec">Open Web Application</a></td>
+    </tr>
+    <tr>
+      <td>Data Source (Google Sheets)</td>
+      <td><a href="https://docs.google.com/spreadsheets/d/1JUpzYpNbTBxQrUdxjW2XcXKGB2t9WTbv9pg12wPPLjg/edit?usp=sharing">Open Data Source</a></td>
+    </tr>
+    <tr>
+      <td>Generated Output Folder (Google Drive)</td>
+      <td><a href="https://drive.google.com/drive/folders/1T7l4R3PMPFFR2-jJxzz9QeDYiwZDUg5h">Open Output Folder</a></td>
+    </tr>
+    <tr>
+      <td>Public Showcase Repository</td>
+      <td><a href="https://github.com/keindabest/sc-demo-invoice-report-creator-showcase">Open public showcase repository</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ## Quick How to Try Demo
 
@@ -53,7 +103,7 @@ This is a sanitized public demo package. Production-specific orchestration detai
 
 ## License
 
-This project is licensed under the MIT License. See LICENSE.
+This project is licensed under the MIT License. See [LICENSE](LICENSE).
 
 ## Author
 
